@@ -50,7 +50,7 @@ formEl.append(btnEl);
 formEl.append(success);
 
 bodyEl.style.padding= "30px";
-bodyEl.style.backgroundColor="gray";
+bodyEl.style.backgroundColor="#f1f1f1";
 bodyEl.append(formEl);
 
 btnEl.addEventListener("click",function(event){
